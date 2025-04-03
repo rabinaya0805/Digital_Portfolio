@@ -1,0 +1,13 @@
+                                                  Personal details
+
+ Name         :R.Abinaya
+
+ Date of birth:08/05/2005
+
+ Gender       :female
+
+                                                  Education details
+
+ University   :Bharathidasan University
+
+ Department   :BCA
